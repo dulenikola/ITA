@@ -1,2 +1,1 @@
-# ITA
-ITAcademy Project
+https://dulenikola.github.io/ITA/
